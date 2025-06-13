@@ -1,0 +1,11 @@
+{
+    "id": 355,
+    "name": "Interaktiv historie",
+    "description": "Laget av Teodor Kristiansen Sætrang",
+    "sections": [
+        {
+            "type": "image",
+            "content": "/data/2025/project_assets/100/200.png"
+        }
+    ]
+}
